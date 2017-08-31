@@ -1,0 +1,12 @@
+{
+    "name": "ptica/wp-simple-admin-menu",
+    "description": "Remove the fly-outs and menus that distract user experience",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Jan Ptacek",
+            "email": "jan.ptacek@gmail.com"
+        }
+    ],
+    "require": {}
+}
