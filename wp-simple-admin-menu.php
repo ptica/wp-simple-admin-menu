@@ -3,7 +3,7 @@
 /*
     Plugin Name: Admin toolbar and menu simplification
     Plugin URI: http://f11.cz
-    Description: Remove the fly-out and menus that distract user experience
+    Description: Remove the fly-outs and menus that distract user experience
     Version: 2.0.4
     Author: Jan Ptacek
     Author URI: http://www.f11.cz
